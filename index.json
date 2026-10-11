@@ -1,0 +1,11 @@
+{
+  "org": "python-poetry",
+  "repo": "poetry-core",
+  "versions": [
+    {
+      "commit": "b52c25c451bbaed9f309d45fc6e6e35c704e55bf",
+      "tag": "2.5.0",
+      "parsed_at": "2026-10-11T05:49:56.594630+00:00"
+    }
+  ]
+}
