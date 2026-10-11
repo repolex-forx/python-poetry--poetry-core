@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-poetry/poetry-core/commit/b52c25c451bbaed9f309d45fc6e6e35c704e55bf",
       "git:hexsha": "b52c25c451bbaed9f309d45fc6e6e35c704e55bf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.5.0"
     },
     {
